@@ -12,11 +12,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db93c41e-3c26-4ed7-a1aa-018040dd8599" name="Changes" comment="" />
+    <list default="true" id="db93c41e-3c26-4ed7-a1aa-018040dd8599" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Content/General/PavlovMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/PavlovMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacterDowned.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacterDowned.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Player/Input/IMC_Default.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/Input/IMC_Default.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Weapons/WBP_AmmoDisplay.uasset" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -27,26 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C++ Project.Pavlov.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C++ Project.Pavlov.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\patri\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\patri\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\patri\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\patri\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\patri\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\patri\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C++ Project.Pavlov">
     <configuration name="Pavlov" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -505,6 +515,7 @@
       <workItem from="1719089877513" duration="2423000" />
       <workItem from="1719094015989" duration="3622000" />
       <workItem from="1719320822975" duration="31000" />
+      <workItem from="1719343342761" duration="728000" />
     </task>
     <servers />
   </component>
