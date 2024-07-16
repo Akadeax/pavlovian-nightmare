@@ -13,20 +13,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db93c41e-3c26-4ed7-a1aa-018040dd8599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/General/EncounterComponents/BP_Door.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/General/EncounterComponents/M_Door.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/BP_TestRaidFirstEncounter.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/_GENERATED/patri/CubeGridToolOutput_348206E2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/_GENERATED/patri/CubeGridToolOutput_D25277F9.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/General/Lobby/UI/WBP_RaidSelectionBoxItem.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Pavlov/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pavlov/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/General/BP_RaidGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/BP_RaidGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/General/Encounter/BP_Encounter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Encounter/BP_Encounter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/General/Encounter/BP_EncounterStartZone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Encounter/BP_EncounterStartZone.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/General/Raid/BP_Raid.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/BP_Raid.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/General/Raid/DT_RaidData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/DT_RaidData.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/EncounterComponents/BP_Door.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/EncounterComponents/BP_Door.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/Lobby/BP_LobbyGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Lobby/BP_LobbyGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/Lobby/BP_LobbyGameState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Lobby/BP_LobbyGameState.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/Lobby/LobbyMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Lobby/LobbyMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/Lobby/UI/WBP_LobbyClientMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Lobby/UI/WBP_LobbyClientMenu.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/Lobby/UI/WBP_LobbyHostMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Lobby/UI/WBP_LobbyHostMenu.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/General/Raid/Levels/TestRaid.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/TestRaid.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/General/Raid/S_RaidData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/S_RaidData.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -545,6 +542,8 @@
       <workItem from="1721081287531" duration="4450000" />
       <workItem from="1721122533762" duration="2583000" />
       <workItem from="1721134456885" duration="7001000" />
+      <workItem from="1721145034065" duration="1528000" />
+      <workItem from="1721158467287" duration="494000" />
     </task>
     <servers />
   </component>
