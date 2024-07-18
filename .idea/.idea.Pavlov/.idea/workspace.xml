@@ -13,35 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db93c41e-3c26-4ed7-a1aa-018040dd8599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/AI/AIC_EnemyBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/AI/AIC_EnemyMobile.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/AI/BB_EnemyBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/AI/BB_EnemyMobile.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/AI/BTT_TryShootTowards.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/AI/BT_EnemyMobile.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/Assets/FXS_WeaponShoot.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/BP_EnemyBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/BP_EnemySpawner.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/Goon/AIC_EnemyGoon.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/Goon/Assets/PHYS_EnemyGoon.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/Goon/Assets/SKEL_EnemyGoon.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/Goon/Assets/SK_EnemyGoon.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/Goon/BP_EnemyGoon.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Enemies/AI/BTT_ChooseWanderTarget.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Pavlov/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pavlov/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/AIC_Enemy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BB_Enemy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BTD_FloatLess.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BTT_ShootTarget.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BT_Enemy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/Assets/ABP_Enemy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/Assets/PHYS_Enemy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/Assets/SKEL_Enemy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/Assets/SK_Enemy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/BP_Enemy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/SKEL_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/SKEL_Enemy.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/SK_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/SK_Enemy.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/General/Encounter/BP_Encounter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Encounter/BP_Encounter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/General/Encounter/BP_EnemySpawner.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Encounter/BP_EnemySpawner.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BB_EnemyMobile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/AI/BB_EnemyMobile.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BT_EnemyMobile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/AI/BT_EnemyMobile.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/General/Raid/Levels/BP_TestRaidFirstEncounter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/BP_TestRaidFirstEncounter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/General/Raid/Levels/TestRaid.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/TestRaid.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" afterDir="false" />
@@ -566,6 +541,8 @@
       <workItem from="1721145034065" duration="1528000" />
       <workItem from="1721158467287" duration="3663000" />
       <workItem from="1721210243503" duration="3867000" />
+      <workItem from="1721251796405" duration="624000" />
+      <workItem from="1721296211399" duration="6381000" />
     </task>
     <servers />
   </component>
