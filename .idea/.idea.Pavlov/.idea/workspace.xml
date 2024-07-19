@@ -13,13 +13,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db93c41e-3c26-4ed7-a1aa-018040dd8599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Enemies/AI/BTT_ChooseWanderTarget.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Enemies/Assets/FXS_WeaponBulletTrail.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/General/Raid/BP_RaidGameMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/General/Raid/BP_RaidPlayerState.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Pavlov/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pavlov/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BB_EnemyMobile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/AI/BB_EnemyMobile.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/AIC_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/AI/AIC_EnemyBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BTT_TryShootTowards.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/AI/BTT_TryShootTowards.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BT_EnemyMobile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/AI/BT_EnemyMobile.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/Assets/M_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/Assets/M_Enemy.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/BP_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/BP_EnemyBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/Goon/AIC_EnemyGoon.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/Goon/AIC_EnemyGoon.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/Goon/BP_EnemyGoon.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/Goon/BP_EnemyGoon.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/BP_PavlovGameMode.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/BP_RaidGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/BP_RaidGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/Encounter/BP_Encounter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Encounter/BP_Encounter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/Encounter/BP_EncounterStartZone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Encounter/BP_EncounterStartZone.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/General/PavlovMap.umap" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/General/Raid/Levels/BP_TestRaidFirstEncounter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/BP_TestRaidFirstEncounter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/General/Raid/Levels/TestRaid.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/TestRaid.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacterDowned.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacterDowned.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Player/UI/WBP_PlayerHUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/UI/WBP_PlayerHUD.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -543,6 +557,9 @@
       <workItem from="1721210243503" duration="3867000" />
       <workItem from="1721251796405" duration="624000" />
       <workItem from="1721296211399" duration="6381000" />
+      <workItem from="1721341895316" duration="668000" />
+      <workItem from="1721378899207" duration="1888000" />
+      <workItem from="1721400819164" duration="668000" />
     </task>
     <servers />
   </component>
