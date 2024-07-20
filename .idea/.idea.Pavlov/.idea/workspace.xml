@@ -13,18 +13,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db93c41e-3c26-4ed7-a1aa-018040dd8599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Player/Arm/Anim/AS_ArmPunch.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Pavlov/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pavlov/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BTT_TryShootTowards.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/AI/BTT_TryShootTowards.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/AIC_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/AI/AIC_EnemyBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Enemies/AI/BB_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/AI/BB_EnemyBase.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Enemies/BP_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/BP_EnemyBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Enemies/Goon/BP_EnemyGoon.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Enemies/Goon/BP_EnemyGoon.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/General/Raid/Levels/BP_TestRaidFirstEncounter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/BP_TestRaidFirstEncounter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/General/Raid/Levels/TestRaid.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/General/Raid/Levels/TestRaid.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Interactables/BP_Interactor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Interactables/BP_Interactor.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Player/Arm/Anim/AM_ArmPunch.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/Arm/Anim/AM_ArmPunch.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Player/BP_PavlovPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/BP_PavlovPlayerController.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/Character/BP_PavlovCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Shootables/BPI_Hittable.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Shootables/BPI_Hittable.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -552,7 +545,8 @@
       <workItem from="1721378899207" duration="1888000" />
       <workItem from="1721400819164" duration="2527000" />
       <workItem from="1721421795715" duration="1346000" />
-      <workItem from="1721426354287" duration="1078000" />
+      <workItem from="1721426354287" duration="1414000" />
+      <workItem from="1721506872195" duration="659000" />
     </task>
     <servers />
   </component>
